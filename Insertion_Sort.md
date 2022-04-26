@@ -25,3 +25,4 @@ Average Case
 [2,3,7,5,8,9,4,15,6]\
 [2,3,4,7,5,8,9,15,6]\
 [2,3,4,5,7,8,9,15,6]\
+[Yunus Akgün](https://app.patika.dev/codingyou)
